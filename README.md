@@ -13,3 +13,4 @@ This repository contains all programs done in MP409 Course
 |M8|Write and execute a FORTRAN program for computing motion of a particle trapped in a 3-dimensional box.|
 |M9|i) Calculate 10 pseudorandom numbers for RNG (263, 71, 100,79) and RNG (13, 0, 31, 1).<br /> ii) Write & execute a Fortran program to solve the above problem. Compare your numerical and programmed results. Plot Random Applet with your generated random numbers.|
 |M10|Write & execute a Fortran program to find π value in MC method. Plot a merged figure with dirt’s inside and outside the targeted region along with the function (circle).|
+|M11|Write and execute a Fortran program to solve the problem by Monte Carlo hit-or-miss integration method and generate a merged plot for darts of hit and miss (with different colours) and the function. Compare your analytical and programmed integration results.|
