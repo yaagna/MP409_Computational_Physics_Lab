@@ -7,3 +7,4 @@ This repository contains all programs done in MP409 Course
 |M2|Write and execute a FORTRAN program to simulate motion of a particle in uniform circular motion in cartesian coordinates.|
 |M3|Write and execute a FORTRAN program to simulate motion of a particle in uniform circular motion in polar coordinates.|
 |M4|Write and execute a FORTRAN program to simulate motion of a simple pendulum.|
+|M5|Write and execute a FORTRAN program to simulate motion of a particle following projectile motion.|
