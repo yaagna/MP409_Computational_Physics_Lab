@@ -1,4 +1,4 @@
-# MP409_Computatioanl_Physics
+# MP409_Computational_Physics
 This repository contains all programs done in MP409 Course
 
 |Program Name|Aim of the Program|
