@@ -9,3 +9,4 @@ This repository contains all programs done in MP409 Course
 |M4|Write and execute a FORTRAN program to simulate motion of a simple pendulum.|
 |M5|Write and execute a FORTRAN program to simulate motion of a particle following projectile motion.|
 |M6|Write and execute a FORTRAN program for computing motion of a particle trapped in a 1-dimensional box.|
+|M7|Write and execute a FORTRAN program for computing motion of a particle trapped in a 2-dimensional box.|
