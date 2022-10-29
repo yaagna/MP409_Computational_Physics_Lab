@@ -1,4 +1,6 @@
 # MP409_Computational_Physics
+[![DOI](https://zenodo.org/badge/493330620.svg)](https://zenodo.org/badge/latestdoi/493330620)
+
 This repository contains all programs done in MP409 Course
 
 |Program Name|Aim of the Program|
